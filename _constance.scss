@@ -1,0 +1,13 @@
+$black-text:#090b08;
+$white-text:#fff;
+$back-white:#ecffe9;
+$back-green: #c0eea9;
+$back-plantgreen: #97d279;
+$border-color:#000;
+$rgba:rgba(0, 0, 0, 0.75);
+$font-padding: 20px;
+@mixin text-style {
+  max-width: 700px;
+  text-align: center;
+  padding:$font-padding ;
+  }
